@@ -1,4 +1,4 @@
-qBittorrent - A BitTorrent client in Qt
+qBittorrentX - A BitTorrent client in Qt improved by WebTorrentX
 ------------------------------------------
 
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/github/qbittorrent/qBittorrent?branch=master&svg=true)](https://ci.appveyor.com/project/qbittorrent/qBittorrent)
