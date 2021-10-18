@@ -34,16 +34,16 @@ You can also download it from [here](https://github.com/qbittorrent/qBittorrent/
 
 ### Misc:
 For more information please visit:
-https://www.qbittorrent.org
+https://www.facebook.com/groups/1451276131939128/
 
 or our wiki here:
-http://wiki.qbittorrent.org
+https://www.facebook.com/groups/1451276131939128/
 
 Use the forum for troubleshooting before reporting bugs:
-http://forum.qbittorrent.org
+https://www.facebook.com/groups/1451276131939128/
 
 Please report any bug (or feature request) to:
-http://bugs.qbittorrent.org
+https://www.facebook.com/groups/1451276131939128/
 
 Official IRC channel:
 `#qbittorrent on irc.libera.chat`
