@@ -49,4 +49,3 @@ Official IRC channel:
 `#qbittorrent on irc.libera.chat`
 
 ------------------------------------------
-sledgehammer999 <sledgehammer999@qbittorrent.org>
